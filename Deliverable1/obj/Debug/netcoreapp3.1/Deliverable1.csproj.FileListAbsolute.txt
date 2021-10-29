@@ -1,0 +1,13 @@
+C:\Users\wuhta\source\repos\Deliverable1\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.exe
+C:\Users\wuhta\source\repos\Deliverable1\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.deps.json
+C:\Users\wuhta\source\repos\Deliverable1\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.runtimeconfig.json
+C:\Users\wuhta\source\repos\Deliverable1\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.runtimeconfig.dev.json
+C:\Users\wuhta\source\repos\Deliverable1\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.dll
+C:\Users\wuhta\source\repos\Deliverable1\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.pdb
+C:\Users\wuhta\source\repos\Deliverable1\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.csproj.AssemblyReference.cache
+C:\Users\wuhta\source\repos\Deliverable1\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.AssemblyInfoInputs.cache
+C:\Users\wuhta\source\repos\Deliverable1\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.AssemblyInfo.cs
+C:\Users\wuhta\source\repos\Deliverable1\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.csproj.CoreCompileInputs.cache
+C:\Users\wuhta\source\repos\Deliverable1\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.dll
+C:\Users\wuhta\source\repos\Deliverable1\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.pdb
+C:\Users\wuhta\source\repos\Deliverable1\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.genruntimeconfig.cache
